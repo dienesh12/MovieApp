@@ -20,7 +20,7 @@ a > span{
 }
 
 a > span:hover {
-    color: red;
+    color: orange;
 }
 
 .header__icon {
